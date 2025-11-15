@@ -29,7 +29,7 @@ The project structure aligns with the assignment requirements.
 How to Run This Project
 
 🔹 Step 1 — Clone the Repository
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/vora-faizan/-Product-Listing-Dashboard.git)
+git clone https://github.com/vora-faizan/-Product-Listing-Dashboard.git
 
 🔹 Step 2 — Enter the Project Folder
 cd -Product-Listing-Dashboard-main
