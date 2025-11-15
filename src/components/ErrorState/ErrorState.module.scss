@@ -1,0 +1,26 @@
+.wrap {
+  padding: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+.msg {
+  background: var(--card);
+  padding: 28px;
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+  text-align: center;
+  color: var(--muted);
+}
+
+.retry {
+  display: inline-flex;
+  gap: 8px;
+  align-items: center;
+  padding: 10px 14px;
+  border-radius: 10px;
+  background: var(--primary);
+  color: white;
+  border: none;
+  cursor: pointer;
+}

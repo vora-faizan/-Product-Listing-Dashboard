@@ -1,0 +1,41 @@
+.skel {
+  background: linear-gradient(180deg, rgba(255,255,255,0.02), rgba(0,0,0,0.02));
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
+  animation: pulse 1.2s infinite ease-in-out;
+  min-height: 320px;
+}
+
+@keyframes pulse {
+  0% { opacity: 1; }
+  50% { opacity: 0.6; }
+  100% { opacity: 1; }
+}
+
+.media {
+  height: 220px;
+  background: linear-gradient(90deg, #eef2ff 25%, #f8fafc 37%, #eef2ff 63%);
+}
+
+.body {
+  padding: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.line {
+  height: 12px;
+  background: linear-gradient(90deg, #e6edf3 25%, #f3f6fa 37%, #e6edf3 63%);
+  border-radius: 6px;
+}
+
+
+.list {
+  flex-direction: row;
+  min-height: 120px;
+}
+.list .media { width: 160px; height: 100%; }

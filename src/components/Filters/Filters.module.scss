@@ -1,0 +1,83 @@
+.filters {
+  background: var(--card);
+  padding: 18px;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
+.row {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+}
+
+.search {
+  position: relative;
+  flex: 1 1 280px;
+}
+
+.searchIcon {
+  position: absolute;
+  left: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  opacity: 0.6;
+}
+
+.searchInput {
+  width: 100%;
+  padding: 10px 12px 10px 38px;
+  border-radius: 10px;
+  border: 1px solid #e6edf3;
+  background: transparent;
+}
+
+.select {
+  padding: 10px 14px;
+  border-radius: 10px;
+  background: var(--card);
+  border: 1px solid #e6edf3;
+  min-width: 180px;
+  font-size: 15px;
+  cursor: pointer;
+  color: var(--text);
+  transition: all 0.25s ease;
+  box-shadow: var(--shadow);
+}
+
+.viewToggle {
+  display: flex;
+  gap: 8px;
+}
+
+.smallBtn {
+  padding: 8px 10px;
+  border-radius: 10px;
+  border: none;
+  color: var(--text);
+  background: transparent;
+  box-shadow: var(--shadow);
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.smallBtn.active {
+  background: var(--primary);
+  color: white;
+}
+
+.priceLabel {
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.range {
+  display: flex;
+  gap: 8px;
+  flex: 1;
+  min-width: 200px;
+}
