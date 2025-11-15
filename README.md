@@ -17,7 +17,7 @@ Sort by multiple criteria
 
 Navigate using pagination
 
-Add/remove items to wishlist (localStorage)
+wishlist (localStorage)
 
 Switch between light and dark mode
 
@@ -29,10 +29,10 @@ The project structure aligns with the assignment requirements.
 How to Run This Project
 
 🔹 Step 1 — Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/vora-faizan/-Product-Listing-Dashboard.git)
 
 🔹 Step 2 — Enter the Project Folder
-cd your-repo-name
+cd -Product-Listing-Dashboard-main
 
 🔹 Step 3 — Install Dependencies
 npm install
