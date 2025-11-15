@@ -50,3 +50,5 @@ Screenshot
 <img width="1920" height="1237" alt="screencapture-localhost-3000-2025-11-15-20_16_13" src="https://github.com/user-attachments/assets/9cefa798-9c49-4748-a8d0-9cd36ad54e32" />
 <img width="1920" height="1141" alt="screencapture-localhost-3000-2025-11-15-20_15_55" src="https://github.com/user-attachments/assets/cfa49418-75bb-45c6-81d5-d1c753dff451" />
 <img width="1920" height="1160" alt="screencapture-localhost-3000-2025-11-15-20_15_34" src="https://github.com/user-attachments/assets/3d0776f8-b1bf-4240-bf82-102d7eb61101" />
+
+<img width="480" height="1118" alt="screencapture-localhost-3000-2025-11-15-20_53_17" src="https://github.com/user-attachments/assets/8ea1f31f-d82f-4b39-9599-0e059432bdc8" />
