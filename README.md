@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+Project Title
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React Product Dashboard
+A modern, responsive React.js Product Dashboard featuring search, filters, sorting, pagination, wishlist, and dark mode.
 
-## Available Scripts
+Project Overview
 
-In the project directory, you can run:
+This project is a fully functional Product Listing Dashboard where users can:
 
-### `npm start`
+View products
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Search products
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Filter by category & price
 
-### `npm test`
+Sort by multiple criteria
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Navigate using pagination
 
-### `npm run build`
+Add/remove items to wishlist (localStorage)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Switch between light and dark mode
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Experience a fully responsive layout
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The project structure aligns with the assignment requirements.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+How to Run This Project
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+🔹 Step 1 — Clone the Repository
+git clone https://github.com/your-username/your-repo-name.git
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+🔹 Step 2 — Enter the Project Folder
+cd your-repo-name
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+🔹 Step 3 — Install Dependencies
+npm install
 
-## Learn More
+🔹 Step 4 — Start Development Server
+npm start
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Screenshot
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="1920" height="878" alt="screencapture-localhost-3000-2025-11-15-20_14_49" src="https://github.com/user-attachments/assets/9d6dd73f-fd99-4a9a-b747-b7118f034e63" />
+<img width="1920" height="1219" alt="screencapture-localhost-3000-2025-11-15-20_13_59" src="https://github.com/user-attachments/assets/d9ce8647-f4ba-4af4-bb0c-90a163a387d2" />
+<img width="1907" height="868" alt="Capture" src="https://github.com/user-attachments/assets/e50457f4-217e-4369-b36e-833d1646b32d" />
+<img width="1920" height="1219" alt="screencapture-localhost-3000-2025-11-15-20_23_35" src="https://github.com/user-attachments/assets/68f58421-68bf-4af8-96f7-48e5208cf610" />
+<img width="1920" height="1237" alt="screencapture-localhost-3000-2025-11-15-20_16_31" src="https://github.com/user-attachments/assets/bceb62a1-f93c-4bda-9ff3-489f4300e932" />
+<img width="1920" height="1237" alt="screencapture-localhost-3000-2025-11-15-20_16_13" src="https://github.com/user-attachments/assets/9cefa798-9c49-4748-a8d0-9cd36ad54e32" />
+<img width="1920" height="1141" alt="screencapture-localhost-3000-2025-11-15-20_15_55" src="https://github.com/user-attachments/assets/cfa49418-75bb-45c6-81d5-d1c753dff451" />
+<img width="1920" height="1160" alt="screencapture-localhost-3000-2025-11-15-20_15_34" src="https://github.com/user-attachments/assets/3d0776f8-b1bf-4240-bf82-102d7eb61101" />
